@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kirito071008
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on everything i could
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me kiritoswordsao071008@gmail.com
 
 <!---
