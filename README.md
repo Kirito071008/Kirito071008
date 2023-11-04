@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kirito071008
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, html
+- 🌱 I’m currently learning Python, HTML, CSS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me kiritoswordsao071008@gmail.com
 
